@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceBot Macro Editor", "VoiceBot Macro Editor.csproj", "{CCF90295-142C-41AE-92F2-1FB506D7E588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF90295-142C-41AE-92F2-1FB506D7E588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF90295-142C-41AE-92F2-1FB506D7E588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF90295-142C-41AE-92F2-1FB506D7E588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF90295-142C-41AE-92F2-1FB506D7E588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0111E7D-79B7-419D-A258-D5D2925F9423}
+	EndGlobalSection
+EndGlobal
